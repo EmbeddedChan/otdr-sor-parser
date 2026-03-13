@@ -23,3 +23,5 @@ Latest Beta Version:
 ![Screen 1](images/Screenshot_4.jpg)
 
 ![Screen 1](images/Screenshot_5.jpg)
+
+![Screen 1](images/Screenshot_7.jpg)
