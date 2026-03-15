@@ -6,10 +6,19 @@ Developed and maintained by **EmbeddedChan**.
 
 ## 📥 Download
 
-Latest Beta Version:
+Latest Version:
 
 [Download EC-OTDR-Viewer-v0.2.1.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.2.1.apk)
 
+## Version History
+
+### v0.3.0
+Added
+- PDF report export (Pro)
+- File name display
+
+### v0.2.1
+- Initial release
 
 
 ## 🖼 UI Preview
