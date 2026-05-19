@@ -59,6 +59,10 @@ This app is currently not available on Google Play.
 
 
 ## 📦 Version History
+### v1.0.3
+- Fixed missing Tube Color Code expansion rule handling in Fiber Color Code color lookup
+- Fixed an issue causing intermittent cable data loading failures
+
 ### v1.0.2
 - Fixed crash caused by Android theme switching
 
