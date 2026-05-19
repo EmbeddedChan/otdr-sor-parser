@@ -6,7 +6,7 @@ Developed and maintained by **EmbeddedChan**.
 
 ## 📥 Download
 
-Latest Version:
+Last updated: May 19, 2026
 
 [Download EC-OpticKit-v1.0.3.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OpticKit-v1.0.3.apk)
 
