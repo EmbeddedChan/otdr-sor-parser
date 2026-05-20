@@ -14,7 +14,7 @@ Please uninstall EC OTDR Viewer before installing EC-OpticKit.
 
 This app is currently not available on Google Play.
 
-![Screen 1](images/Screenshot_1.jpg)
+![Screen 1](images/Screenshot_26.jpg)
 
 ## The application includes the following modules:
 
