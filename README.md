@@ -14,6 +14,8 @@ Please uninstall EC OTDR Viewer before installing EC-OpticKit.
 
 This app is currently not available on Google Play.
 
+![Screen 1](images/Screenshot_1.jpg)
+
 ## The application includes the following modules:
 
 ### SOR Parser Module
@@ -42,19 +44,19 @@ This app is currently not available on Google Play.
 
 ![Screen 1](images/Screenshot_25.jpg)
 
-![Screen 1](images/Screenshot_21.jpg)
+![Screen 2](images/Screenshot_21.jpg)
 
-![Screen 1](images/Screenshot_12.jpg)
+![Screen 3](images/Screenshot_12.jpg)
 
-![Screen 1](images/Screenshot_24.jpg)
+![Screen 4](images/Screenshot_24.jpg)
 
-![Screen 1](images/Screenshot_17.jpg)
+![Screen 5](images/Screenshot_17.jpg)
 
-![Screen 1](images/Screenshot_19.jpg)
+![Screen 6](images/Screenshot_19.jpg)
 
-![Screen 1](images/Screenshot_18.jpg)
+![Screen 7](images/Screenshot_18.jpg)
 
-![Screen 1](images/Screenshot_23.jpg)
+![Screen 8](images/Screenshot_23.jpg)
 
 
 
