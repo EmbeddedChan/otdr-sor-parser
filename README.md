@@ -61,6 +61,13 @@ This app is currently not available on Google Play.
 
 
 ## 📦 Version History
+### v1.6.0
+- Added SFP DDM parser module
+- Added USB serial terminal
+- Added HEX file comparator
+ Added file comparison tool
+- Improved LinkBudget page state retention when switching pages
+
 ### v1.0.3
 - Fixed missing Tube Color Code expansion rule handling in Fiber Color Code color lookup
 - Fixed an issue causing intermittent cable data loading failures
