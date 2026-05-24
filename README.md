@@ -64,8 +64,8 @@ This app is currently not available on Google Play.
 ### v1.6.0
 - Added SFP DDM parser module
 - Added USB serial terminal
-- Added HEX file comparator
- Added file comparison tool
+- Added HEX file editor
+- Added file comparator
 - Improved LinkBudget page state retention when switching pages
 
 ### v1.0.3
