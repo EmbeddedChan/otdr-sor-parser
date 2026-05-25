@@ -58,6 +58,11 @@ This app is currently not available on Google Play.
 
 ![Screen 8](images/Screenshot_23.jpg)
 
+![Screen 9](images/Screenshot_29.jpg)
+
+![Screen 10](images/Screenshot_28.jpg)
+
+![Screen 11](images/Screenshot_27.jpg)
 
 
 ## 📦 Version History
