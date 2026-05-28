@@ -70,7 +70,7 @@ This app is currently not available on Google Play.
 ## 📦 Version History
 
 ### v1.8.0
-
+- Added distance resolution to Trace view
 - Fixed an issue where ".sor" file parsing could occasionally freeze
 - Enabled side drawer gesture support for easier navigation
 - Added STM32 programming support to the Hex Editor
