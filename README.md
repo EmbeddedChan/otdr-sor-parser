@@ -149,3 +149,8 @@ Unlocks advanced features, including:
 - Watermark-free PDF report export
 - Cable fibers >144
 
+## Privacy Policy
+
+This application does not collect personal information.All serial communication, Modbus, TCP/UDP networking, file processing, and engineering tools operate locally on the user's device.
+
+For license validation purposes, the application may generate and transmit a unique installation identifier. This identifier is used solely to verify software licenses and prevent unauthorized use of premium features.
