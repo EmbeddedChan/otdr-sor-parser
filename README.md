@@ -69,6 +69,9 @@ This app is currently not available on Google Play.
 
 ## 📦 Version History
 
+### v1.8.1
+- Fixed a LineChart initialization issue that caused trace lines to appear thinner than expected.
+
 ### v1.8.0
 - Added distance resolution to Trace view
 - Fixed an issue where ".sor" file parsing could occasionally freeze
