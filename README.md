@@ -8,7 +8,7 @@ Developed and maintained by **EmbeddedChan**.
 
 Last updated: 2026-06-14
 
-[Download EC-OpticKit-v1.8.2.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OpticKit-v1.8.2.apk)
+[Download EC-OpticKit-v1.8.3.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OpticKit-v1.8.3.apk)
 
 Please uninstall EC OTDR Viewer before installing EC-OpticKit.
 
@@ -68,6 +68,9 @@ This app is currently not available on Google Play.
 
 
 ## 📦 Version History
+
+### v1.8.3
+- Added Table View for OTDR event list
 
 ### v1.8.2
 - Added full-screen view for OTDR trace charts
