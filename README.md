@@ -46,7 +46,7 @@ This app is currently not available on Google Play.
 
 ![Screen 1](images/Screenshot_25.jpg)
 
-![Screen 2](images/Screenshot_21.jpg)
+![Screen 2](images/Screenshot_30.jpg)
 
 ![Screen 3](images/Screenshot_12.jpg)
 
