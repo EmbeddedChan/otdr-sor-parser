@@ -69,6 +69,9 @@ This app is currently not available on Google Play.
 
 ## 📦 Version History
 
+### v1.8.2
+- Added full-screen view for OTDR trace charts
+
 ### v1.8.1
 - Fixed a LineChart initialization issue that caused trace lines to appear thinner than expected.
 
