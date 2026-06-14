@@ -6,9 +6,9 @@ Developed and maintained by **EmbeddedChan**.
 
 ## 📥 Download
 
-Last updated: 2026-06-09
+Last updated: 2026-06-14
 
-[Download EC-OpticKit-v1.8.1.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OpticKit-v1.8.1.apk)
+[Download EC-OpticKit-v1.8.2.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OpticKit-v1.8.2.apk)
 
 Please uninstall EC OTDR Viewer before installing EC-OpticKit.
 
