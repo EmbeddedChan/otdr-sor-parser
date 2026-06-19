@@ -48,8 +48,6 @@ This app is currently not available on Google Play.
 
 ![Screen 2](images/Screenshot_30.jpg)
 
-![Screen 2](images/Screenshot_30.jpg)
-
 ![Screen 2](images/Screenshot_31.jpg)
 Hold the line until the circle grows, then drag · R² closer to 1 = straighter fit
 
