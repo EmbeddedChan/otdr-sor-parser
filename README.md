@@ -8,7 +8,7 @@ Developed and maintained by **EmbeddedChan**.
 
 Last updated: 2026-06-14
 
-[Download EC-OpticKit-v1.8.3.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OpticKit-v1.8.3.apk)
+[Download EC-OpticKit-v1.8.4.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OpticKit-v1.8.4.apk)
 
 Please uninstall EC OTDR Viewer before installing EC-OpticKit.
 
@@ -71,6 +71,9 @@ Hold the line until the circle grows, then drag · R² closer to 1 = straighter 
 
 
 ## 📦 Version History
+
+### v1.8.4
+- Added measurement functionality in OTDR Trace Full View
 
 ### v1.8.3
 - Added Table View for OTDR event list
