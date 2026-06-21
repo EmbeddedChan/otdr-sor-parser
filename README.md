@@ -1,6 +1,6 @@
-# EC-OpticKit
+# EC-FusionKit
 
-EC-OpticKit is an Android app for OTDR SOR file viewer, trace comparison, PDF report, fiber color code lookup, optical link budget calculation, and other useful optical fiber tools in a single lightweight application.
+EC-FusionKit is an Android app for OTDR SOR file viewer, trace comparison, PDF report, fiber color code lookup, optical link budget calculation, and other useful optical fiber tools in a single lightweight application.
 
 Developed and maintained by **EmbeddedChan**.
 
