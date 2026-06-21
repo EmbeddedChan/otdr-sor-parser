@@ -37,6 +37,8 @@ EC FusionKit
 │   ├── TCP Client
 │   └── TCP Server
 │
+├── Programmer(SPI flash, STM32)
+│
 └── Utilities
      ├── Calculator
      ├── FHex Editor
