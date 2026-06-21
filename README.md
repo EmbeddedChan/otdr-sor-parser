@@ -14,36 +14,7 @@ Please uninstall EC-OpticKit before installing EC-FusionKit.
 
 This app is currently not available on Google Play.
 
-```text
-EC FusionKit
-│
-├── Optical
-│   ├── OTDR Analyzer
-│   ├── Link Budget
-│   ├── Fiber Color Code
-│   ├── Fiber Loss Calculator
-│   ├── Optical Power Converter
-│   └── SFP DDM
-│
-├── Embedded
-│   ├── USB Serial Terminal
-│   ├── BLE Terminal
-│   ├── SCPI Terminal
-│   ├── Protocol Viewer
-│   └── Data Logger
-│
-├── Network
-│   ├── IP Calculator
-│   ├── Ping
-│   ├── Port Scanner
-│   ├── DNS Lookup
-│   └── Whois
-│
-└── Utilities
-    ├── Hex Editor
-    ├── File Compare
-    └── Text Tools
-```
+
 
 ![Screen 1](images/Screenshot_26.jpg)
 
