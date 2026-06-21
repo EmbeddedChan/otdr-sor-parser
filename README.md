@@ -26,7 +26,7 @@ EC FusionKit
 │   ├── SFP DDM
 │   └── Tools 
 │
-├── Terminals
+├── Terminal
 │   ├── USB Serial Terminal
 │   ├── BLE Serial Terminal
 │   ├── FTDI Serial Terminal(Dedicated to FTDI USB serial devices)
