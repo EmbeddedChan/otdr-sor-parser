@@ -8,9 +8,9 @@ Developed and maintained by **EmbeddedChan**.
 
 Last updated: 2026-06-20
 
-[Download EC-OpticKit-v1.8.5.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OpticKit-v1.8.5.apk)
+[Download EC-FusionKit-v1.13.2.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-FusionKit-v1.13.2.apk)
 
-Please uninstall EC OTDR Viewer before installing EC-OpticKit.
+Please uninstall EC-OpticKit before installing EC-FusionKit.
 
 This app is currently not available on Google Play.
 
@@ -72,8 +72,8 @@ Hold the line until the circle grows, then drag · R² closer to 1 = straighter 
 
 ## 📦 Version History
 
-### v1.8.5
-- todo
+### v1.13.2
+- Renamed app to EC FusionKit
 
 ### v1.8.4
 - Added measurement functionality in OTDR Trace Full View
