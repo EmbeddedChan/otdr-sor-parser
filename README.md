@@ -42,7 +42,7 @@ EC FusionKit
 └── Utilities
      ├── Calculator
      ├── Hex Editor
-     ├── HEX/BIN/DEC
+     ├── HEX/BIN/DEC Converter
      └── Text File Compare
 ```
 
