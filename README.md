@@ -14,7 +14,35 @@ Please uninstall EC-OpticKit before installing EC-FusionKit.
 
 This app is currently not available on Google Play.
 
-
+```text
+EC FusionKit
+│
+│
+├── Optical
+│   ├── SorFiles
+│   ├── OTDR Trace
+│   ├── Fiber Color Code
+│   ├── Link Budget
+│   ├── SFP DDM
+│   └── Tools 
+│
+├── Terminals
+│   ├── USB Serial Terminal
+│   ├── BLE Serial Terminal
+│   ├── FTDI Serial Terminal(Dedicated to FTDI USB serial devices)
+│   └── SCPI Terminal
+│
+├── Network
+│   ├── UDP
+│   ├── TCP Client
+│   └── TCP Server
+│
+└── Utilities
+     ├── Calculator
+     ├── FHex Editor
+     ├── HEX/BIN/DEC
+     └── Text File Compare
+```
 
 ![Screen 1](images/Screenshot_26.jpg)
 
