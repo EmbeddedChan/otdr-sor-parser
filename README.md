@@ -41,7 +41,7 @@ EC FusionKit
 │
 └── Utilities
      ├── Calculator
-     ├── FHex Editor
+     ├── Hex Editor
      ├── HEX/BIN/DEC
      └── Text File Compare
 ```
