@@ -48,31 +48,6 @@ EC FusionKit
 
 ![Screen 1](images/Screenshot_26.jpg)
 
-## The application includes the following modules:
-
-### SOR Parser Module
-- SOR File Management
-- OTDR Trace Viewer
-- PDF Report Export
-
-### Optical Link Budget Module
-- Receiver Power Verification
-- High-Speed Optical Link Analysis
-
-### Fiber Optic Color Code Module
-- Color Code Lookup
-- Fiber cable Mapping
-
-### SFP DDM Parser
-
-### SCPI raw socket terminal
-- Raw TCP socket terminal for SCPI instrument control and debugging.
-
-### Tools Module
-- Optical Power Converter
-- Splitter Loss Calculator
-- WDM λ ↔ Frequency / ITU Channel Converter
-- OTDR Time-Distance Converter
 
 ## 🖼 UI Preview
 
