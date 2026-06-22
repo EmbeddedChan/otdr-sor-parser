@@ -37,7 +37,7 @@ EC FusionKit
 │   ├── TCP Client
 │   └── TCP Server
 │
-├── Programmer(SPI flash, STM32)
+├── Programmer(I²C EEPROM, SPI flash, STM32)
 │
 └── Utilities
      ├── Calculator
