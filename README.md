@@ -8,7 +8,7 @@ Developed and maintained by **EmbeddedChan**.
 
 Last updated: 2026-06-20
 
-[Download EC-FusionKit-v1.13.2.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-FusionKit-v1.13.2.apk)
+[Download EC-FusionKit-v1.13.3.apk](https://github.com/EmbeddedChan/EC-FusionKit/raw/main/apk/EC-FusionKit-v1.13.3.apk)
 
 Please uninstall EC-OpticKit before installing EC-FusionKit.
 
