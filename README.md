@@ -6,9 +6,9 @@ Developed and maintained by **EmbeddedChan**.
 
 ## 📥 Download
 
-Last updated: 2026-06-20
+Last updated: 2026-07-02
 
-[Download EC-FusionKit-v1.13.3.apk](https://github.com/EmbeddedChan/EC-FusionKit/raw/main/apk/EC-FusionKit-v1.13.3.apk)
+[Download EC-FusionKit-v1.13.4.apk](https://github.com/EmbeddedChan/EC-FusionKit/raw/main/apk/EC-FusionKit.apk)
 
 Please uninstall EC-OpticKit before installing EC-FusionKit.
 
