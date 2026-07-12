@@ -4,11 +4,13 @@ EC-FusionKit is an Android app for OTDR SOR file viewer, trace comparison, PDF r
 
 Developed and maintained by **EmbeddedChan**.
 
+> **Note:** This project is distributed as the **Optical edition of EC FusionKit**.
+
 ## 📥 Download
 
-Last updated: 2026-07-02
+Last updated: 2026-07-12
 
-[Download EC-FusionKit-v1.13.4.apk](https://github.com/EmbeddedChan/EC-FusionKit/raw/main/apk/EC-FusionKit.apk)
+[Download EC-FusionKit-v1.13.5.apk](https://github.com/EmbeddedChan/otdr-sor-viewer/raw/main/apk/EC-FusionKit-v1.13.5.apk)
 
 Please uninstall EC-OpticKit before installing EC-FusionKit.
 
