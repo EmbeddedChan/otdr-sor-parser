@@ -23,15 +23,15 @@ EC FusionKit
 ├── Optical
 │   ├── SorFiles
 │   ├── OTDR Trace
-│   ├── Fiber Color Code
+│   ├── Tools
 │   ├── Link Budget
 │   ├── SFP DDM
-│   └── Tools 
+│   └── Fiber Color Code
 │
 └── Utilities
-     ├── Calculator
-     ├── Hex Editor
      ├── HEX/BIN/DEC Converter
+     ├── Hex Editor
+     ├── Calculator
      └── Text File Compare
 ```
 
