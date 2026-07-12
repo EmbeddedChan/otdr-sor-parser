@@ -28,19 +28,6 @@ EC FusionKit
 │   ├── SFP DDM
 │   └── Tools 
 │
-├── Terminal
-│   ├── USB Serial Terminal
-│   ├── BLE Serial Terminal
-│   ├── FTDI Serial Terminal(Dedicated to FTDI USB serial devices)
-│   └── SCPI Terminal
-│
-├── Network
-│   ├── UDP
-│   ├── TCP Client
-│   └── TCP Server
-│
-├── Programmer(I²C EEPROM, SPI flash, STM32)
-│
 └── Utilities
      ├── Calculator
      ├── Hex Editor
