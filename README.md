@@ -156,7 +156,7 @@ Email: embeddedchan@gmail.com
 
 ## Licensing
 
-EC-OpticKit is available in two editions:
+EC-FusionKit is available in two editions:
 
 ### Free Version
 Includes all standard features, except Pro-exclusive functions.
@@ -164,7 +164,6 @@ Includes all standard features, except Pro-exclusive functions.
 ### Pro Version
 Unlocks advanced features, including:
 - Watermark-free PDF report export
-- Cable fibers >144
 
 ## Privacy Policy
 
