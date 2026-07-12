@@ -68,6 +68,9 @@ Hold the line until the circle grows, then drag · R² closer to 1 = straighter 
 
 ## 📦 Version History
 
+### v1.13.5
+- Fiber Optic Color Code (Free)
+
 ### v1.13.2
 - Renamed app to EC FusionKit
 
