@@ -24,9 +24,9 @@ EC FusionKit
 │   ├── SorFiles
 │   ├── OTDR Trace
 │   ├── Tools
-│   ├── Link Budget
-│   ├── SFP DDM
-│   └── Fiber Color Code
+│   ├── Fiber Color Code
+│   ├── Link Budget 
+│   └── SFP DDM
 │
 └── Utilities
      ├── HEX/BIN/DEC Converter
