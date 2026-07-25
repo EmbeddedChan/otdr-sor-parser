@@ -154,6 +154,17 @@ Please email me anytime.
 
 Email: embeddedchan@gmail.com
 
+## Support Development
+
+USDT (TRC20):
+
+![USDT TRC20 Donation](images/usdt-trc20-qr.jpg)
+
+Address:
+`TWJxB5izJwCg7Q2cTVFkp9ZjamsFmE2UqV`
+
+
+
 ## Licensing
 
 EC-FusionKit is available in two editions:
