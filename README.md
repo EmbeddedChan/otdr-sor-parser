@@ -155,12 +155,13 @@ Please email me anytime.
 Email: embeddedchan@gmail.com
 
 ## Support Development
+Donate
 
 USDT (TRC20):
 
 ![USDT TRC20 Donation](images/usdt-trc20-qr.jpg)
 
-Address:
+TRON (TRX / USDT-TRC20):
 `TWJxB5izJwCg7Q2cTVFkp9ZjamsFmE2UqV`
 
 
