@@ -10,7 +10,7 @@ Developed and maintained by **EmbeddedChan**.
 
 Last updated: 2026-07-12
 
-[Download EC-FusionKit-v1.13.5.apk](https://github.com/EmbeddedChan/otdr-sor-viewer/raw/main/apk/EC-FusionKit-v1.13.5.apk)
+[Download EC-FusionKit-v1.13.7.apk](https://github.com/EmbeddedChan/otdr-sor-viewer/raw/main/apk/EC-FusionKit-v1.13.7.apk)
 
 Please uninstall EC-OpticKit before installing EC-FusionKit.
 
@@ -67,6 +67,11 @@ Hold the line until the circle grows, then drag · R² closer to 1 = straighter 
 
 
 ## 📦 Version History
+
+### v1.13.7
+
+- Added Privacy Policy statement.
+- Added Donation information and support options.
 
 ### v1.13.5
 - Fiber Optic Color Code is now free for everyone
