@@ -71,7 +71,7 @@ Hold the line until the circle grows, then drag · R² closer to 1 = straighter 
 ### v1.13.7
 
 - Added Privacy Policy statement.
-- Added Donation information and support options.
+- Added Donation information.
 
 ### v1.13.5
 - Fiber Optic Color Code is now free for everyone
