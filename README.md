@@ -12,7 +12,7 @@ Last updated: 2026-08-08
 
 [Download EC-FusionKit-v1.13.7.apk](https://github.com/EmbeddedChan/otdr-sor-viewer/raw/main/apk/EC-FusionKit-v1.13.7.apk)
 
-Please uninstall EC-OpticKit before installing EC-FusionKit.
+Please uninstall EC-OpticKit DroidOTDR before installing EC-FusionKit.
 
 This app is currently not available on Google Play.
 
