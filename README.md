@@ -119,7 +119,7 @@ Hold the line until the circle grows, then drag · R² closer to 1 = straighter 
 
 ### v0.9.1
 - Added fiber optic color code lookup and mapping module
-(Pro, Cable >144 fibers)
+
 ### v0.8.2
 - Added Link Budget module (configuration save support)
 - Added OTDR trace topology view
